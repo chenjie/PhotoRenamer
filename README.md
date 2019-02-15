@@ -1,4 +1,6 @@
 # PhotoRenamer
+[![GitHub license](https://img.shields.io/github/license/jellycsc/PhotoRenamer.svg)](LICENSE)
+
 A Java application which manages all photos under a specified directory. 📷
 ![](mdres/1.png)  
 ![](mdres/4.png)  
